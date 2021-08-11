@@ -3,5 +3,5 @@
 
 ## GIT pull command
 ''''shell
-$git pull
+$ git pull
 '''

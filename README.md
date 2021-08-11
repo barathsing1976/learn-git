@@ -10,3 +10,8 @@ $ git pull
 ```shell
 $ git push
 ```
+
+## GIT branchname command
+```shell
+$ git branch branchname
+```

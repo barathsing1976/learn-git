@@ -2,6 +2,6 @@
 ## clone something
 
 ## GIT pull command
-''''shell
+'''shell
 $ git pull
 '''

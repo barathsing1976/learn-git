@@ -5,3 +5,8 @@
 ```shell
 $ git pull
 ```
+
+## GIT push command
+```shell
+$ git push
+```
